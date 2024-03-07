@@ -4,7 +4,7 @@ This repository is for Project-Based Internship Final Task Evermos x Rakamin Aca
 
 ### Preparation
 
-Make sure you have installed the following software :
+Make sure you have installed the following software:
 
 1. [Postman](https://www.postman.com/)
 2. [Node.js](https://nodejs.org/)
