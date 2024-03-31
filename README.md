@@ -5,7 +5,7 @@ The tests is using K6 tool with javascript, and using dummy API from https://req
 Task to be done:
 1. Create a test scenario for the integration test of the 2 APIs and implement it into k6 and add assertions from each test performed in 1 test file
 2. Create a test scenario to test the performance of the 2 APIs with a total of 1000 virtual users, 3500 iterations and a maximum API response tolerance limit of 2 seconds and add assertions from each test performed in 1 test file
-3. Generate a report in HTML from problem no. 2 to get a visualization of the performance test performed.
+3. Generate a report in HTML from no. 2 to get a visualization of the performance test performed.
 
 ## Getting Started
 
