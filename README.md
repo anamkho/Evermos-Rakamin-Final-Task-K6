@@ -1,4 +1,4 @@
-This repository is for Performance Test and Integration Test Project-Based Internship Final Task Evermos x Rakamin Academy
+This repository is for Integration Test and Performance Test Project-Based Internship Final Task Evermos x Rakamin Academy
 
 The tests is using K6 tool with javascript, and using dummy API from https://reqres.in/
 
