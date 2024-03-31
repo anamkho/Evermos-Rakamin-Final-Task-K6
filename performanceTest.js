@@ -42,9 +42,9 @@ export default function () {
         check(
             res,
             {
-                'respone name should same with request': (res) => {
-                    const respone = JSON.parse(res.body)
-                    return respone.name === name
+                'response name should same with request': (res) => {
+                    const response = JSON.parse(res.body)
+                    return response.name === name
                 },
             },
         )
@@ -85,9 +85,9 @@ export default function () {
         check(
             res,
             {
-                'respone name should same with request': (res) => {
-                    const respone = JSON.parse(res.body)
-                    return respone.name === name
+                'response name should same with request': (res) => {
+                    const response = JSON.parse(res.body)
+                    return response.name === name
                 },
             },
         )
